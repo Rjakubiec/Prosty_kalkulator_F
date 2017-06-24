@@ -1,9 +1,0 @@
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\bin\Debug\Prosty_kalkulator_F.exe.config
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\bin\Debug\Prosty_kalkulator_F.XML
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\bin\Debug\Prosty_kalkulator_F.exe
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\bin\Debug\Prosty_kalkulator_F.pdb
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\bin\Debug\FSharp.Core.dll
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\bin\Debug\System.ValueTuple.dll
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\bin\Debug\FSharp.Core.xml
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\obj\Debug\Prosty_kalkulator_F.exe
-c:\users\rafal.jakubiec\documents\visual studio 2017\Projects\Prosty_kalkulator_F\Prosty_kalkulator_F\obj\Debug\Prosty_kalkulator_F.pdb
